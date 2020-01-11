@@ -1,0 +1,31 @@
+[
+  {"type": "Feature",
+  "properties": {
+    "description": "<h4>Martha de Roldos</h4><p><strong>Delito frecuentado:</strong> Robo a buses de transporte público</p>",
+    "icon": "theatre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-79.9216, -2.1466]
+  }
+  },{
+  "type": "Feature",
+  "properties": {
+    "description": "<h4>Sauces 6</h4><p><strong>Delito frecuentado:</strong> Consumo de drogas y robo a transeuntes</p>",
+    "icon": "theatre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-79.8983, -2.1251]
+  }
+  },{
+  "type": "Feature",
+  "properties": {
+    "description": "<h4>Perimetral Ceibos</h4><p><strong>Delito frecuentado:</strong> Robo en paradero de buses</p>",
+    "icon": "theatre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-79.9480, -2.1563]
+  }
+}]

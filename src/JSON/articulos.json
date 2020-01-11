@@ -1,0 +1,21 @@
+{"articulos":[
+    {"seccion":"Norte","lugar":"City Mall","descripcion":"Se reporta actividad delictiva cerca del centro comercial 'City mall'.Varios ciudadanos fueron asaltados en la parte posterior del mismo. Usuarios reportan que los asaltantes acechan a las persona s que caminan en la noche. El vehiculo que utilizan para cometer los crimenes es descrito como una moto de color",
+    "src":"assets/img/Guayaquil/Norte/citymall.jpg"},
+    {"seccion":"Norte","lugar":"Parque Clemente Yerovi","descripcion":"Se reporta actividad delictiva cerca del parque ppublico 'Clemente Yerovi'.Se reporta actividad sospechosa por parte de la ciudanía. Mujeres afirman ser seguidas de manera incómoda al dirigirse a sus hogares. La actividad parece ocurrir desde las 19:00 pm, los sospechosos son descritos como un hombre y una mujer de contextura",
+    "src":"assets/img/Guayaquil/Norte/parqueclemente.jpg"},
+    {"seccion":"Centro","lugar":"Malecon del Salado","descripcion":"Estudiantes de la Universidad de Guayaquil reportan inconvenientes al momento de dirigirse al Malecon del Salado, todo indica que la zona se ha convertido en el nido de consumidores de drogas. Dos estudiantes reportan que los individuos generan molestias entre los ciudadanos, ya que estos insultan a quienes no colaboren con lo",
+    "src":"assets/img/Guayaquil/Centro/malecondelsalado.jpg"},
+    {"seccion":"Centro","lugar":"Mercado 'Las 4 manzanas'","descripcion":"Compradores frecuentes reportan que los vendedores del mercado descuidan por completo el espacio publico. 'Ensucian las calles, Dejan producto en mal estado' es lo que ",
+    "src":"assets/img/Guayaquil/Centro/4manzanas.jpg"},
+    {"seccion":"Sur","lugar":"Guasmo Sur","descripcion":"Los ciudadanos deben tener suma precaucion a partir de las 20:00 pm en el sector del Guasmo Sur. Los moradores del sector reportan ruidos de armas de fuego. Al parecer existen conflictos desde hace una semana entre bandas de",
+    "src":"assets/img/Guayaquil/Sur/guasmo.jpg"},
+    {"seccion":"Sur","lugar":"Parque Acuatico - Isla Trinitaria","descripcion":"Los visitantes del parque acuatico cerca de la Isla Trinitaria mucho cuidado. Se reporta hurto de pertenencias de quienes se distraen brevemente. Las autoridades estan investigando a traves de las camaras a los posibles delincuentes ",
+    "src":"assets/img/Guayaquil/Sur/parqueislatrinitaria.jpg"}
+    ],
+  "principal":[
+    {"seccion":"Norte","src":"assets/img/Guayaquil/Norte/norte.jpg" },
+    {"seccion":"Sur","src":"assets/img/Guayaquil/Sur/sur.jpg"},
+    {"seccion":"Centro","src":"assets/img/Guayaquil/Centro/centro.jpg"}
+  ]
+    
+}

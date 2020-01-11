@@ -1,0 +1,42 @@
+ /*Cambios del crew*/
+  div.navbar-inner{
+    background-color: #4dd7fa;
+  }
+  header .navbar{
+    background-color: #4dd7fa;
+  }
+  
+ div.navigation ul li *{
+   color:white;
+ }
+h2#titulonorte{
+	font-weight: bold;
+
+}
+#comsapplogo{
+  height: 200px;
+  width: 200px;
+  border-radius: 50% 50%;
+  background-color: white; 
+}
+
+div#primerdivisor{
+	background-color: #333;
+	}
+div#primerdivisor h2{
+	color: white;
+}
+div#tercerdivisor{
+	background-color: darkslategray;
+}
+div#tercerdivisor h3{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color:white;
+	font-weight: bold;
+}
+div#tercerdivisor img{
+	border: silver solid 2px;
+}
+
+
+

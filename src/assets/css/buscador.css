@@ -1,0 +1,75 @@
+.item {
+    border: 1px solid #eee;
+    padding: 10px 10px 20px 10px;
+    margin: 10px auto;
+    box-shadow: 2px 2px 3px black;
+    font-family:'Open Sans', Arial, sans-serif;
+    background: rgb(0, 225, 255)
+    
+}
+.item div{
+  display: inline-block;
+}
+label{
+    color: black;
+
+}
+p{
+    color:black;
+}
+
+button.detalle_cita {
+    border-radius: 3px;
+    padding: 8px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background: rgb(243, 99, 99);
+    color: black;
+    font-weight: bold;
+}
+.texto_buscar{
+  font-size: x-large;
+}
+.titulo_cartilla{
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#buscador{
+  width: 100%;
+  font-size: 20px;
+}
+.nombres{
+  font-size:1.2em;
+  text-align: center;
+  margin: auto;
+  color:rgb(255, 253, 253);
+  font-weight: bold;
+  
+}
+.texto_descripcion{
+  background-color:seashell;
+  border: solid black 1pt;
+  
+}
+@media only screen and (max-device-width: 412px){
+  .texto_descripcion{
+    display:none;
+    
+  }
+  .texto_buscar{
+    font-size: 1em;
+  }
+  .item div{
+    display: block;
+  }
+  .nombres{
+    font-size:1.8em;
+    text-align: center;
+    margin: auto;
+  }
+  .titulo_cartilla{
+    font-size: 1em;
+  }
+  
+}

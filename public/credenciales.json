@@ -1,0 +1,22 @@
+[
+  {
+    "username": "diego",
+    "pass": "yance",
+    "type": "admin"
+  },
+  {
+    "username": "luis",
+    "pass": "salazar",
+    "type": "user"
+  },
+  {
+    "username": "carlos",
+    "pass": "sanchez",
+    "type": "user"
+  },
+  {
+    "username": "jordy",
+    "pass": "villao",
+    "type": "nada"
+  }
+]

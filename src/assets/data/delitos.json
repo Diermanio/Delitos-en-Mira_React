@@ -1,0 +1,22 @@
+{
+  "delitos": [
+    {
+      "usuario": "John Doe",
+      "tipoDelito": "Robo",
+      "sector": "Martha de Roldos",
+      "datetime": "21/10/2019 07:00 PM",
+      "comentario": "Me robaron mi reloj en este sector. Cuidado!",
+      "latitud": "-2.1731195206264178",
+      "longitud": "-79.89998102188112"
+    },
+    {
+      "usuario": "Joe Mama",
+      "tipoDelito": "Consumo de drogas y Robo",
+      "sector": "Sauces 6",
+      "datetime": "01/11/2019 08:00 PM",
+      "comentario": "En el parque proximo cuando se entra por el callejon del Comedor Juanito hay un grupo de chicos que consumen drogas y a veces roban a los que pasan por alli. Eviten pasar por allí ",
+      "latitud": "-2.1708895260089456",
+      "longitud": "-79.9065685272217"
+    }
+  ]
+}

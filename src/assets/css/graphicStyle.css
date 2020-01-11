@@ -1,0 +1,9 @@
+#borderedDiv {
+  border: 1px solid black;
+  margin-bottom: 5%;
+}
+
+#chartContainer {
+  height: 300px;
+  width: 100%;
+}
